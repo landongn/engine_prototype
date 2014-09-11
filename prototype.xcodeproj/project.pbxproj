@@ -29,6 +29,7 @@
 /* Begin PBXFileReference section */
 		6A1138F419C155DF00865AFB /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		6A1138F619C155FE00865AFB /* SDL2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDL2.framework; path = ../../../../../../../Library/Frameworks/SDL2.framework; sourceTree = "<group>"; };
+		6A1138F819C1564E00865AFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		6AAA2AEF19C152B400A948E0 /* prototype */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = prototype; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AAA2AF219C152B400A948E0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		6AAA2AF419C152B400A948E0 /* prototype.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = prototype.1; sourceTree = "<group>"; };
@@ -57,6 +58,7 @@
 		6AAA2AE619C152B400A948E0 = {
 			isa = PBXGroup;
 			children = (
+				6A1138F819C1564E00865AFB /* README.md */,
 				6A1138F619C155FE00865AFB /* SDL2.framework */,
 				6A1138F419C155DF00865AFB /* JavaScriptCore.framework */,
 				6AAA2AF119C152B400A948E0 /* prototype */,

@@ -1,0 +1,1 @@
+Make sure you go to Build Phases -> Link Binary With libraries -> SDL2.Framework is listed there, if not, add it. 
