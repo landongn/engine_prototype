@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C6FADAE5-2B95-4037-B191-E0FC71EA876D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>prototype</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6C7CA7B0-2D12-4581-A3AC-1C63C57E5966</key>
+		<string>https://github.com/landongn/engine_prototype.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>prototype/prototype.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6C7CA7B0-2D12-4581-A3AC-1C63C57E5966</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/landongn/engine_prototype.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6C7CA7B0-2D12-4581-A3AC-1C63C57E5966</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6C7CA7B0-2D12-4581-A3AC-1C63C57E5966</string>
+			<key>IDESourceControlWCCName</key>
+			<string>engine_prototype</string>
+		</dict>
+	</array>
+</dict>
+</plist>
